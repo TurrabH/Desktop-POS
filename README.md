@@ -1,4 +1,4 @@
-# Fast Food Desktop POS
+# Fast Food Desktop POS(Point Of Sale)
 
 ![POS](https://github.com/TurrabH/Desktop-POS/assets/151545901/2bff82f9-439d-44d5-8f30-fd3ae4cba315)
 
